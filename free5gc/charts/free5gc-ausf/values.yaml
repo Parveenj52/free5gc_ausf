@@ -39,7 +39,7 @@ initcontainers:
 
 ausf:
   name: ausf
-  replicaCount: 1
+  replicaCount: 3
   image:
     name: towards5gs/free5gc-ausf
     pullPolicy: Always
